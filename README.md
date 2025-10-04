@@ -12,12 +12,12 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics enthusiast, and dat
 
 - 🔬 **Research:** Plant genomics, metagenomics & mycobiome diversity in environmental and food systems  
 - 🧑‍💻 **Bioinformatician:** Passionate about multi-omics data, reproducible workflows, and scientific programming  
-- 📊 **Skills:** Data science, statistical modeling, workflow automation, reproducible research, AI for biosciences  
-- 💻 **Programming:** R, Python (automation scripts & pipelines), Shell, Java, JavaScript, HTML, CSS  
+- 📊 **Skills:** Data science, statistical modeling, workflow automation (Python/Shell), GUI development (Tkinter, Kivy, Flet), AI for biosciences  
+- 💻 **Programming:** R, Python (automation scripts & pipelines), Shell, Java, Julia, JavaScript, HTML, CSS  
 - 🔧 **Python Automation & Pipelines:** Creating and maintaining automation scripts and pipelines for scientific and data workflows  
 - 🖥️ **GUI Experience:** Knowledge and experience with graphical interfaces in Python using Tkinter, Kivy, and Flet  
 - 🤝 **Collaboration:** Open science, ecological and omics data projects, workflow and package development  
-- 💬 **Ask me about:** R and Python scripting, scientific visualization, metagenomic pipelines, manuscript writing  
+- 💬 **Ask me about:** R, Python & Julia scripting, scientific visualization, metagenomic pipelines, manuscript writing  
 - 🌱 **Learning:** Scientific French, advanced statistics for -omics, data-driven biological research  
 - ⚡ **Fun fact:** Loves combining classic British rock with a Brazilian twist and exploring scientific vocabulary in multiple languages!
 
@@ -31,6 +31,7 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics enthusiast, and dat
 **Tech Stack & Favorite Tools:**  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -69,4 +70,6 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics enthusiast, and dat
 ---
 
 > “Open data, reproducible workflows, and scientific curiosity drive innovation!”  
+> Let's collaborate and advance plant, microbial, and data-driven science together!
+e workflows, and scientific curiosity drive innovation!”  
 > Let's collaborate and advance plant, microbial, and data-driven science together!
