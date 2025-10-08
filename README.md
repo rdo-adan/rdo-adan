@@ -19,7 +19,7 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics enthusiast, and dat
 - 🤝 **Collaboration:** Open science, ecological and omics data projects, workflow and package development  
 - 💬 **Ask me about:** R, Python & Julia scripting, scientific visualization, metagenomic pipelines, manuscript writing  
 - 🌱 **Learning:** Scientific French, advanced statistics for -omics, data-driven biological research  
-- ⚡ **Fun fact:** Loves combining classic British rock with a Brazilian twist and exploring scientific vocabulary in multiple languages!
+- ⚡ **Fun fact:** Loves classic rock & metal in multiple languages!
 
 - 📫 **Contact:**  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-rodrigues-de-oliveira-328330199/)  
