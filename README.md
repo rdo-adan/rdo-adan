@@ -10,7 +10,7 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data science s
   - **Current:** PhD Candidate in Genetics, Molecular and Environmental Biology (expected 2027)
   - **Current:** Second B.Sc. in Data Science (expected 2026)
 
-- 🔬 **Research:** Plant genomics, metagenomics & mycobiome diversity in environmental and food systems  
+- 🔬 **Research:** Plant genomics, metagenomics & mycobiome diversity in environmental  
 - 🧑‍💻 **Bioinformatician:** Passionate about multi-omics data, reproducible workflows, and scientific programming  
 - 📊 **Skills:** Data science, statistical modeling, workflow automation (Python/Shell), GUI development (Tkinter, Kivy, Flet), AI for biosciences  
 - 💻 **Programming:** R, Python (automation scripts & pipelines), Shell, Java, Julia, JavaScript, HTML, CSS  
