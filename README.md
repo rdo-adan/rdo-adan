@@ -71,5 +71,5 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data science s
 
 > “Open data, reproducible workflows, and scientific curiosity drive innovation!”  
 > Let's collaborate and advance plant, microbial, and data-driven science together!
-e workflows, and scientific curiosity drive innovation!”  
+> workflows, and scientific curiosity drive innovation!”  
 > Let's collaborate and advance plant, microbial, and data-driven science together!
