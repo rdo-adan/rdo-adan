@@ -60,9 +60,6 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data science s
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdo-adan&show_icons=true&theme=prussian" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdo-adan&layout=compact&theme=prussian" alt="Top languages" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdo-adan&theme=github_dark" alt="Profile details" />
 </p>
