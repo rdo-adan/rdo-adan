@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data science student**!
+I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data scientist**!
 
 ---
 
