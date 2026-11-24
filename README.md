@@ -8,7 +8,7 @@ I'm Adan — **Bioinformatician, plant genomics/metagenomics, and data scientist
   - B.Sc. in Biology (Teaching License)
   - M.Sc. in Bioinformatics (focused on environmental genomics & omics analysis)
   - Technologist Degree in Data Science.
-  - **Current:** PhD Candidate in Genetics and Molecular and Biology (expected 2027)
+  - **Current:** PhD Candidate in Genetics and Molecular Biology (expected 2027)
  
 
 - 🔬 **Research:** Plant genomics, metagenomics & mycobiome diversity in environmental  
